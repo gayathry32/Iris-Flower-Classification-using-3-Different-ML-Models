@@ -29,5 +29,5 @@ The objective is to determine **which model performs best** for classifying **Ir
 ## 🛠 **Installation and Setup**
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/your-username/Iris-Classification.git
+git clone https://github.com/gayathry32/Iris-Flower-Classification-using-3-Different-ML-Models.git
 cd Iris-Classification
